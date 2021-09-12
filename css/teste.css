@@ -16,7 +16,7 @@ html, body {
   }
   div.imagem {
     background-image: url(http://placecage.com/201/80);
-    width: 200px;
+    width: 300px;
     height: 80px;
   }
   p.centro {
